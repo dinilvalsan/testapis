@@ -1,0 +1,25 @@
+{
+    "count": 9,
+    "next": "http://127.0.0.1:8000/api/v1/users/?page=3",
+    "previous": "http://127.0.0.1:8000/api/v1/users/",
+    "results": [
+        {
+            "id": 14,
+            "first_name": "don",
+            "last_name": "",
+            "username": "dodn@admaren.com"
+        },
+        {
+            "id": 5,
+            "first_name": "Jinu",
+            "last_name": "Thomas",
+            "username": "jinu.thomas@admaren.com"
+        },
+        {
+            "id": 3,
+            "first_name": "",
+            "last_name": "",
+            "username": "tester@admaren.com"
+        }
+    ]
+}
